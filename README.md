@@ -1,4 +1,4 @@
-# 📊 SAP MM Inventory Management and Goods Movement Optimization.
+# SAP Inventory Management, Production Operations and Goods Movement Optimization.
 
 ## Project Overview
 This project demonstrates my expertise in **SAP MM (Materials Management) and SAP PP (Production Planning),** focusing on **Warehouse Management, Production Operations, Inventory Control, and Reporting.** By leveraging key SAP transaction codes as **MIGO, MIRO, MB52, MB51, MB5B, MM01, MBIC, COOISPI, and ZPP418, COR6N, COGI**, I streamlined warehouse processes, optimized production material flows, improved inventory accuracy, and enhanced overall supply chain efficiency.
@@ -17,7 +17,7 @@ The project covers the end-to-end process flow, including:
 
 ## Key SAP Transaction Codes Utilized
 
-### ⚙️ Production Support (SAP PP Integration) 
+### Production Support (SAP PP Integration) 
 
 | **T-Code** | **Description** | **Utilization** |
 |------------|-----------------|-----------------|
@@ -31,7 +31,7 @@ The project covers the end-to-end process flow, including:
 
 ---
 
-## 📦 Warehouse & Inventory Management (Stock Management)  
+## Warehouse & Inventory Management (Stock Management)  
 
 | **T-Code** | **Description** | **Utilization** |
 |------------|-----------------|-----------------|
@@ -46,7 +46,7 @@ The project covers the end-to-end process flow, including:
 
 ---
 
-## 🗂 Reporting & Master Data  
+## Reporting & Master Data  
 
 | **T-Code** | **Description** | **Utilization** |
 |------------|-----------------|-----------------|
@@ -58,7 +58,7 @@ The project covers the end-to-end process flow, including:
 
 ---
 
-## 🛒  Procurement/Purchasing
+## Procurement/Purchasing
 
 | **T-Code** | **Description** | **Utilization** |
 |------------|-----------------|-----------------|
@@ -95,7 +95,7 @@ The project covers the end-to-end process flow, including:
 
 ---
 
-## 📌 About Me  
+## About Me  
 
 I am a **Certified Data Analyst & Manufacturing/Warehouse Professional** with over **10 years of experience** in **supply chain operations and ERP systems**.  
 I specialize in:  
