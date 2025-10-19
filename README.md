@@ -103,5 +103,5 @@ I specialize in:
 - Data Analysis & Reporting (Excel, SQL, Power BI, Tableau)  
 - Warehouse Operations & Production Planning  
 
-🔗 Connect with me on [LinkedIn](#)  
+🔗 Connect with me on [LinkedIn]("https://www.linkedin.com/in/kelvinayogu39")  
 📂 Explore more of my projects on [GitHub](#)  
