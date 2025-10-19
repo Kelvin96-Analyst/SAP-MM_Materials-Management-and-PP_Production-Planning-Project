@@ -99,7 +99,7 @@ The project covers the end-to-end process flow, including:
 
 I am a **Certified Data Analyst & Manufacturing/Warehouse Professional** with over **10 years of experience** in **supply chain operations and ERP systems**.  
 I specialize in:  
-- SAP MM Transactions (Inventory, Procurement, Vendor & Material Master)  
+- SAP MM (Materials Management) and SAP PP (Production Planning)
 - Data Analysis & Reporting (Excel, SQL, Power BI, Tableau)  
 - Warehouse Operations & Production Planning  
 
