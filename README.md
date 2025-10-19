@@ -104,4 +104,4 @@ I specialize in:
 - Warehouse Operations & Production Planning  
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kelvinayogu39)  
-📂 Explore more of my projects on [GitHub](#)  
+📂 Explore more of my projects on [GitHub](https://github.com/Kelvin96-Analyst)  
