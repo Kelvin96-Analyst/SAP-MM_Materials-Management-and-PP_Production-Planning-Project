@@ -91,7 +91,7 @@ The project covers the end-to-end process flow, including:
 
 ## 📊 Workflow Diagram  
 
-![Procure-to-Stock Workflow](sap_procure_to_stock_flow.png)  
+![Procure-to-Stock Workflow](SAP_Workflows.png)  
 
 ---
 
