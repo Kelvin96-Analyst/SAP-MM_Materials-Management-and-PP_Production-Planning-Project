@@ -1,7 +1,7 @@
-# SAP Inventory Management, Production Operations and Goods Movement Optimization.
+# SAP MM–PP Data Analytics: Warehouse and Production Optimization Project
 
 ## Project Overview
-This project demonstrates my expertise in **SAP MM (Materials Management) and SAP PP (Production Planning),** focusing on **Warehouse Management, Production Operations, Inventory Control, and Reporting.** By leveraging key SAP transaction codes as **MIGO, MIRO, MB52, MB51, MB5B, MM01, MBIC, COOISPI, and ZPP418, COR6N, COGI**, I streamlined warehouse processes, optimized production material flows, improved inventory accuracy, and enhanced overall supply chain efficiency.
+This project demonstrates my expertise in **SAP MM (Materials Management) and SAP PP (Production Planning),** focusing on **Warehouse Management, Production Operations, Inventory Control, and Reporting.** By leveraging key SAP transaction codes as **MIGO, MIRO, MB52, MB51, MB5B, MM01, MBIC, COOISPI, and ZPP418, COR6N, COGI**, I streamlined warehouse processes, optimized production material flows, improved reconciliation and inventory accuracy, automated reporting  and enhanced overall supply chain efficiency.
 
 ## Scope of Work
 The project covers the end-to-end process flow, including:
