@@ -105,3 +105,6 @@ I specialize in:
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/kelvinayogu39)  
 📂 Explore more of my projects on [GitHub](https://github.com/Kelvin96-Analyst)  
+
+> **Disclaimer**:
+All SAP transactions, process flows, and data presented in this project are used solely for **portfolio and educational demonstration purposes.** They do **not include or represent any proprietary, confidential, or actual company data**. All examples are **simulated to showcase SAP MM and PP functional and analytical capabilities** only.
